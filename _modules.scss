@@ -1,0 +1,15 @@
+@import "./color";
+
+%nav{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+%a{
+    color: gray;
+    text-shadow: 2px 2px 5px;
+
+    &:hover{
+        color: $secondary-color;
+        transition: 0.5s;
+    }
+}
