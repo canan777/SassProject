@@ -6,11 +6,11 @@ What is Sass?
 Everything About Sass... 
 Register Now
 
-<h2>Technologies Used</h2>
+<h2>used tecnologies</h2>
 HTML- CSS- SASS- BOOTSTRAP
 
 
-<h2>used tecnologies</h2>
+
 <h1>SassProject</h1>
 
 <img src="/images/html-scss.gif"/>
