@@ -6,7 +6,7 @@ What is Sass?
 Everything About Sass... 
 Register Now
 
-<h2>used tecnologies</h2>
+<h2>used technologies</h2>
 HTML- CSS- SASS- BOOTSTRAP
 
 
